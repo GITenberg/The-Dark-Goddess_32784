@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/35925
     wikipedia: http://en.wikipedia.org/wiki/Richard_Sharpe_Shaver
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32784#The-Dark-Goddess
 gutenberg_issued: '2010-06-12'
 gutenberg_type: Text
 identifiers:
